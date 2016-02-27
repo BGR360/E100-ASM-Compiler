@@ -1,0 +1,3 @@
+int a = 69;
+int* b = &a;
+int* c = b + 42;
